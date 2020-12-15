@@ -4,24 +4,24 @@
             "name": "Δευτέρα",
             "lessons": [
                 {
-                    "name": "Ευέλικτη Ζώνη (1)",
-                    "teacher": "a"
-                },
-                {
-                    "name": "Εικαστικά",
-                    "teacher": "b"
-                },
-                {
-                    "name": "Γλώσσα",
-                    "teacher": "c"
-                },
-                {
-                    "name": "Γλώσσα",
-                    "teacher": "d"
-                },
-                {
                     "name": "Μαθηματικά",
-                    "teacher": "e"
+                    "teacher": "kouchristi"
+                },
+                {
+                    "name": "Θεατρική Αγωγή",
+                    "teacher": "thomaiskr"
+                },
+                {
+                    "name": "Γλώσσα",
+                    "teacher": "kouchristi"
+                },
+                {
+                    "name": "Γλώσσα",
+                    "teacher": "kouchristi"
+                },
+                {
+                    "name": "Μ. Περιβάλλοντος",
+                    "teacher": "kouchristi"
                 }
             ]
         },
@@ -30,23 +30,23 @@
             "lessons": [
                 {
                     "name": "Γλώσσα",
-                    "teacher": "a"
+                    "teacher": "kouchristi"
                 },
                 {
                     "name": "Γλώσσα",
-                    "teacher": "b"
+                    "teacher": "kouchristi"
                 },
                 {
-                    "name": "Φυσική Αγωγή",
-                    "teacher": "c"
+                    "name": "Εικασικά",
+                    "teacher": "mosvidali"
+                },
+                {
+                    "name": "Αγγλικά",
+                    "teacher": "chalkiadar"
                 },
                 {
                     "name": "Μαθηματικά",
-                    "teacher": "d"
-                },
-                {
-                    "name": "Μελέτη Περιβάλλοντος",
-                    "teacher": "e"
+                    "teacher": "kouchristi"
                 }
             ]
         },
@@ -55,23 +55,23 @@
             "lessons": [
                 {
                     "name": "Γλώσσα",
-                    "teacher": "a"
+                    "teacher": "kouchristi"
+                },
+                {
+                    "name": "Γλώσσα",
+                    "teacher": "kouchristi"
                 },
                 {
                     "name": "Φυσική Αγωγή",
-                    "teacher": "b"
-                },
-                {
-                    "name": "Αγγλικά",
-                    "teacher": "c"
+                    "teacher": "alekmakris"
                 },
                 {
                     "name": "Μαθηματικά",
-                    "teacher": "d"
+                    "teacher": "kouchristi"
                 },
                 {
-                    "name": "Μελέτη Περιβάλλοντος",
-                    "teacher": "e"
+                    "name": "Πληροφορική",
+                    "teacher": "skolovos"
                 }
             ]
         },
@@ -79,24 +79,24 @@
             "name": "Πέμπτη",
             "lessons": [
                 {
-                    "name": "Τ.Π.Ε. (Πληροφορική)",
-                    "teacher": "a"
-                },
-                {
-                    "name": "Γλώσσα",
-                    "teacher": "b"
-                },
-                {
-                    "name": "Γλώσσα",
-                    "teacher": "c"
-                },
-                {
                     "name": "Μαθηματικά",
-                    "teacher": "d"
+                    "teacher": "kouchristi"
                 },
                 {
-                    "name": "Μουσική",
-                    "teacher": "e"
+                    "name": "Εικαστικά",
+                    "teacher": "mosvidali"
+                },
+                {
+                    "name": "Φυσική Αγωγή",
+                    "teacher": "alekmakris"
+                },
+                {
+                    "name": "Γλώσσα",
+                    "teacher": "kouchristi"
+                },
+                {
+                    "name": "Γλώσσα",
+                    "teacher": "kouchristi"
                 }
             ]
         },
@@ -104,43 +104,26 @@
             "name": "Παρασκευή",
             "lessons": [
                 {
-                    "name": "Γλώσσα",
-                    "teacher": "a"
-                },
-                {
-                    "name": "Γλώσσα",
-                    "teacher": "b"
-                },
-                {
-                    "name": "Θεατρική Αγωγή",
-                    "teacher": "c"
-                },
-                {
                     "name": "Μαθηματικά",
-                    "teacher": "d"
+                    "teacher": "kouchristi"
                 },
                 {
-                    "name": "Ευέλικτη Ζώνη",
-                    "teacher": "e"
+                    "name": "Μουσική",
+                    "teacher": "kpoimen"
+                },
+                {
+                    "name": "Γλώσσα",
+                    "teacher": "kouchristi"
+                },
+                {
+                    "name": "Γλώσσα",
+                    "teacher": "kouchristi"
+                },
+                {
+                    "name": "Ευ. Ζώνη",
+                    "teacher": "getapta"
                 }
             ]
-        }
-    ],
-    "links": [
-        {
-            "text": "WebMail sch.gr",
-            "href": "https://webmail.sch.gr/login.php"
-        },
-        {
-            "text": "e-me",
-            "image": "https://auth.e-me.edu.gr/favicon.ico",
-            "href": "https://e-me.edu.gr/"
-        },
-        {
-            "text": "η-τάξη",
-            "image": "https://eclass.sch.gr/images/e-taxi-logo.png",
-            "href": "https://eclass.sch.gr/",
-            "bgColor": "#616161"
         }
     ]
 }
